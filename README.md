@@ -10,10 +10,7 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SuloDS&theme=gotham)
 
 
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
+
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
