@@ -1,3 +1,6 @@
+<a href="https://github.com/SuloDS/Data-Science-Projects-English"><img src="https://img.shields.io/website?ddown_message=Offline&label=Data Science Projects&style=for-the-badge&up_message=English&url=https%3A%2F%2Fgithub.com/SuloDS/Data-Science-Projects-English" width="auto" height="32"></a>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=gotham"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Claudio+Sulo;I'm+25+years+old;I+from+Mozambique,+MZ;I+am+a+freelance+data+scientisty;Be+Welcome!+:%29)](https://git.io/typing-svg)
