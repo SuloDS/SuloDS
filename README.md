@@ -1,5 +1,7 @@
+<div align="center">  
 <a href="https://github.com/SuloDS/Data-Science-Projects-English"><img src="https://img.shields.io/website?ddown_message=Offline&label=Data Science Projects&style=for-the-badge&up_message=English&url=https%3A%2F%2Fgithub.com/SuloDS/Data-Science-Projects-English" width="auto" height="32"></a>
 <a href="https://github.com/SuloDS/Data-Science-Projects-Portugues"><img src="https://img.shields.io/website?ddown_message=Offline&label=Data Science Projects&style=for-the-badge&up_message=Português&url=https%3A%2F%2Fgithub.com/SuloDS/Data-Science-Projects-Portugues" width="auto" height="32"></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=gotham"/>
 
